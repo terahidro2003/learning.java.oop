@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c3a3528-53b7-44ca-a482-2885b735dae5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learning/java/Bean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learning/java/CoffeeMachines/AdvancedCoffeeMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learning/java/CoffeeMachines/BasicCoffeeMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learning/java/CoffeeTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/learning/java/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="5c3a3528-53b7-44ca-a482-2885b735dae5" name="Changes" comment="Initial coffee machinery" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,11 +58,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689692436350</updated>
-      <workItem from="1689692437553" duration="1588000" />
+      <workItem from="1689692437553" duration="1935000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial coffee machinery">
+      <created>1689694331229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689694331229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial coffee machinery" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial coffee machinery" />
   </component>
 </project>
